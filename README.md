@@ -1,11 +1,12 @@
 ## Bem-vindo(a) ao perfil do Hugo Melo 😁
 
-<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+<p align="center">
   <a href="https://github.com/Hugms">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Hugms&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Status" />
+    <img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=Hugms&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Status" />
   </a>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hugms&layout=compact&langs_count=6&theme=tokyonight" alt="Top Langs" />
-</div>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Hugms&layout=compact&langs_count=6&theme=tokyonight&card_width=460" alt="Top Langs" />
+</p>
 
 <br>
 
